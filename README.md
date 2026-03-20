@@ -1,10 +1,10 @@
-# Hi 👋, I'm Mohammad Faraz Khan
+# Hi 🪽, I'm Mohammad Faraz Khan
 
 ### Cybersecurity Learner | Ethical Hacking Enthusiast | Systems & Linux Explorer
 
 - 🌱 I'm currently learning **Cybersecurity and Operating Systems**
 
-- 👯 I'm looking to collaborate on **Open source project**
+- 🌊 I'm looking to collaborate on **Open source project**
 
 - 🤝 I'm looking for help with **learning and exploring development and open source projects**
 
